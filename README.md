@@ -42,12 +42,17 @@ As cities grow, protecting parks and trees is vital for neighborhood health.
 
 * **Frontend:** React — clean, responsive web app and chatbot.
 * **Data & Maps:** PostgreSQL + PostGIS — spatial queries, park polygons, interactive map.
-* **Blockchain:** Hedera — secure, consensus-backed voting.
+* **Blockchain:** Hedera and Flow — secure, consensus-backed voting.
 * **Smart Contracts:** Solidity — manage proposals, votes, and rewards.
 * **Hedera Agent Kit:** Proposal publishing, topic management, vote events.
 * **Storage:** Walrus — decentralized storage for proposal JSON blobs.
 
 ---
+### SmartContract Transactions
+Hashscan: https://hashscan.io/testnet/contract/0.0.6595859
+Flowscan: https://testnet.flowscan.io/evm/contract/0x3528E5821436Ac55798e5079ccE97De405B1C544
+walrusscan: https://walruscan.com/testnet/blob/o6jVj-iOywJmcqZJRRSWOtcQZuCeftPbJTH7vyl7HEU
+
 
 ## ⚡ Demo / Screenshots
 
