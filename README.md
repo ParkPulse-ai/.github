@@ -50,9 +50,9 @@ As cities grow, protecting parks and trees is vital for neighborhood health.
 ---
 ### SmartContract Transactions
 
-- [Hashscan](https://hashscan.io/testnet/contract/0.0.6595859)
-- [Flowscan](https://testnet.flowscan.io/evm/contract/0x3528E5821436Ac55798e5079ccE97De405B1C544)
-- [Walrusscan](https://walruscan.com/testnet/blob/o6jVj-iOywJmcqZJRRSWOtcQZuCeftPbJTH7vyl7HEU)
+- Hashscan: <https://hashscan.io/testnet/contract/0.0.6595859>
+- Flowscan: <https://testnet.flowscan.io/evm/contract/0x3528E5821436Ac55798e5079ccE97De405B1C544>
+- Walrusscan: <https://walruscan.com/testnet/blob/o6jVj-iOywJmcqZJRRSWOtcQZuCeftPbJTH7vyl7HEU>
 
 
 ## ⚡ Demo / Screenshots
